@@ -3,7 +3,6 @@
 ## About me 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on getting Job ready
 - 🌱 Im currently deep learning Django and databases.
 - 👯 I’m looking to collaborate with anyone intrested in Web development.
 - 💬 Ask me about Programming
